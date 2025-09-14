@@ -13,7 +13,7 @@ mechanisms involved in operationalization of the clock that accounts for the per
 the normative lifespan trajectories of the heart-brain interactions both in terms of temporal coordination and spatial
 organization.
 
-# __Key Findings__
+## __Key Findings__
 ● Identification of HERs occurring predominantly 180-320 ms post R-peak of the ECG waveform, with a reduction in its amplitude 
 across age and the sources of HERs undergoing a spatial reorganization from frontal to fronto-temporal regions, which are 
 well-known to be the seeds of time perception.
