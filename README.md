@@ -12,3 +12,17 @@ diverse cohort of healthy individuals (N = 620; age range: 18–88 years), and i
 mechanisms involved in operationalization of the clock that accounts for the perception of time. We further shed light on
 the normative lifespan trajectories of the heart-brain interactions both in terms of temporal coordination and spatial
 organization.
+
+# __ Key Findings__
+● Identification of HERs occurring predominantly 180-320 ms post R-peak of the ECG waveform, with a reduction in its amplitude 
+across age and the sources of HERs undergoing a spatial reorganization from frontal to fronto-temporal regions, which are 
+well-known to be the seeds of time perception.
+
+● Insights from inter-trial phase coherence (ITPC) analysis, an advanced signal processing tool used in diverse
+disiplines such as Neuroscience, Physics, Climate sciences, establish cardiac signals modulate the phase, but not
+the power of ongoing theta-band neural oscillations, and that this relatiosnhip becomes stronger in older adults.
+
+● Characterization of cortico-cortical and cortico-cardiac causal interactions using Granger causality (GC) analysis
+from econometrics/ forecasting/ information theories, revealed that heart-brain interactions are driven by enhanced
+bottom-up heart-to-brain influences offering novel insights into how interoceptive processes contribute to altered
+time perception with ageing.
