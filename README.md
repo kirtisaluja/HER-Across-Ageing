@@ -26,3 +26,8 @@ the power of ongoing theta-band neural oscillations, and that this relatiosnhip 
 from econometrics/ forecasting/ information theories, revealed that heart-brain interactions are driven by enhanced
 bottom-up heart-to-brain influences offering novel insights into how interoceptive processes contribute to altered
 time perception with ageing.
+
+### __Citation__
+Saluja K., Roy D., Banerjee A. (2025) When the inner clock fades: Interoceptive decline and consolidation of phase resettinginresting state cortical rhythms by cardiac events underlie healthy lifespan ageing
+
+
